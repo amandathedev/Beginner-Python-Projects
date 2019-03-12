@@ -1,8 +1,11 @@
 variable_a = 13.9
 variable_b = 2.8
+variable_c = 11.49
 
 variable_a = round(variable_a)
 variable_b = int(variable_b)
+variable_c = int(variable_c)
 
 print(variable_a)
 print(variable_b)
+print(variable_c)
