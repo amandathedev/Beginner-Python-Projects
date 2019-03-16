@@ -15,4 +15,4 @@ kip = round(kip, 2)
 forint = float(dollar) * 278.1
 forint = round(forint, 2)
 
-print("You have:\n " + str(euro) + " Euros\n " + str(baht) + " Baht\n " + str(dong) + " Dong\n " + str(kip) + " Kip\n" + str(forint) + " Forint")
+print(f"You have:\n {euro} Euros\n {baht} Baht\n {dong} Dong\n {kip} Kip\n {forint} Forint")
