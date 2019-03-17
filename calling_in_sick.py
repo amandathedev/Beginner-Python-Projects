@@ -15,3 +15,8 @@ elif kinda_sick == True and hate_your_job == True and sick_days > 0:
     calling_in_sick = True
 else:
     calling_in_sick = False
+
+if calling_in_sick == True:
+    print("I'm calling in sick today.")
+else:
+    print("I have to go to work today.")
